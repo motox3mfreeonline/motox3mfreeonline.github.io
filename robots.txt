@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://motox3mfreeonline/sitemap.xml
